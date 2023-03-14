@@ -33,7 +33,10 @@ hi Repeat guifg=white guibg=NONE
 hi DiffAdd guifg=white guibg=NONE
 hi GitGutterAdd guifg=white guibg=NONE
 hi cssIncludeKeyword guifg=white guibg=NONE
+
 hi Keyword guifg=yellow guibg=NONE
+hi keyword guifg=yellow guibg=NONE
+
 hi IncSearch guifg=white guibg=NONE
 hi Title guifg=white guibg=NONE
 hi PreCondit guifg=white guibg=NONE
